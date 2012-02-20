@@ -53,7 +53,8 @@
     "mkdirp": "0.3",
     "fast-list": "~1.0.1",
     "read": "0",
-    "lru-cache": "1"
+    "lru-cache": "1",
+    "report": "~0.1.0"
   },
   "bundleDependencies": [
     "slide",
